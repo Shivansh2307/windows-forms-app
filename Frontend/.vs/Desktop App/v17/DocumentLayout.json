@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shivansh\\windows-forms-app\\windows-forms-app\\Frontend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD2C6DA-C255-4711-BC0B-41F2DDB4F619}|Desktop App\\Desktop App.vbproj|c:\\users\\shivansh\\windows-forms-app\\windows-forms-app\\frontend\\desktop app\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BDD2C6DA-C255-4711-BC0B-41F2DDB4F619}|Desktop App\\Desktop App.vbproj|solutionrelative:desktop app\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD2C6DA-C255-4711-BC0B-41F2DDB4F619}|Desktop App\\Desktop App.vbproj|c:\\users\\shivansh\\windows-forms-app\\windows-forms-app\\frontend\\desktop app\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BDD2C6DA-C255-4711-BC0B-41F2DDB4F619}|Desktop App\\Desktop App.vbproj|solutionrelative:desktop app\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD2C6DA-C255-4711-BC0B-41F2DDB4F619}|Desktop App\\Desktop App.vbproj|c:\\users\\shivansh\\windows-forms-app\\windows-forms-app\\frontend\\desktop app\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BDD2C6DA-C255-4711-BC0B-41F2DDB4F619}|Desktop App\\Desktop App.vbproj|solutionrelative:desktop app\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewSubmissionsForm.vb",
+              "DocumentMoniker": "C:\\Users\\shivansh\\windows-forms-app\\windows-forms-app\\Frontend\\Desktop App\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "Desktop App\\ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\shivansh\\windows-forms-app\\windows-forms-app\\Frontend\\Desktop App\\ViewSubmissionsForm.vb",
+              "RelativeToolTip": "Desktop App\\ViewSubmissionsForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-22T07:18:56.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewSubmissionsForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\shivansh\\windows-forms-app\\windows-forms-app\\Frontend\\Desktop App\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "Desktop App\\ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\shivansh\\windows-forms-app\\windows-forms-app\\Frontend\\Desktop App\\ViewSubmissionsForm.vb [Design]",
+              "RelativeToolTip": "Desktop App\\ViewSubmissionsForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-22T07:18:52.457Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\shivansh\\windows-forms-app\\windows-forms-app\\Frontend\\Desktop App\\Form1.vb",
+              "RelativeDocumentMoniker": "Desktop App\\Form1.vb",
+              "ToolTip": "C:\\Users\\shivansh\\windows-forms-app\\windows-forms-app\\Frontend\\Desktop App\\Form1.vb",
+              "RelativeToolTip": "Desktop App\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-22T07:18:14.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

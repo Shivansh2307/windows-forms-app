@@ -1,0 +1,14 @@
+C:\Users\shivansh\source\repos\Desktop App\Desktop App\obj\Debug\Desktop App.vbproj.AssemblyReference.cache
+C:\Users\shivansh\source\repos\Desktop App\Desktop App\obj\Debug\Desktop_App.CreateSubmissionForm.resources
+C:\Users\shivansh\source\repos\Desktop App\Desktop App\obj\Debug\Desktop_App.Form1.resources
+C:\Users\shivansh\source\repos\Desktop App\Desktop App\obj\Debug\Desktop_App.Resources.resources
+C:\Users\shivansh\source\repos\Desktop App\Desktop App\obj\Debug\Desktop_App.ViewSubmissionsForm.resources
+C:\Users\shivansh\source\repos\Desktop App\Desktop App\obj\Debug\Desktop App.vbproj.GenerateResource.cache
+C:\Users\shivansh\source\repos\Desktop App\Desktop App\obj\Debug\Desktop App.vbproj.CoreCompileInputs.cache
+C:\Users\shivansh\source\repos\Desktop App\Desktop App\bin\Debug\Desktop App.exe.config
+C:\Users\shivansh\source\repos\Desktop App\Desktop App\bin\Debug\Desktop App.exe
+C:\Users\shivansh\source\repos\Desktop App\Desktop App\bin\Debug\Desktop App.pdb
+C:\Users\shivansh\source\repos\Desktop App\Desktop App\bin\Debug\Desktop App.xml
+C:\Users\shivansh\source\repos\Desktop App\Desktop App\obj\Debug\Desktop App.exe
+C:\Users\shivansh\source\repos\Desktop App\Desktop App\obj\Debug\Desktop App.xml
+C:\Users\shivansh\source\repos\Desktop App\Desktop App\obj\Debug\Desktop App.pdb
